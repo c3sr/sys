@@ -22,7 +22,7 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/rai-project/sys/cgroup"
+	"github.com/c3sr/sys/cgroup"
 )
 
 // Get the final system memory limit chosen by the user.
